@@ -27,16 +27,19 @@ background-repeat: no-repeat;
 section{
     height:500px;
 }
-.link-button
- { 
-     text-decoration: none;
-     background-image: linear-gradient(laight salmon,tomato );
-     padding: 10px 20px;
-     border-radius: 5px;
-     color :white;
-     font-weight: 700;
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color : white;
+    font-weight:700;
+    
+    
 
 }
+
+
 
 
 
