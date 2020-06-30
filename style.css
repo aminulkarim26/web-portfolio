@@ -1,4 +1,7 @@
-body{font-family: 'Pangolin', cursive;
+
+body
+{margin: 0;
+    font-family: 'Pangolin', cursive;
 }
 h1{
     font-size: 50px;
@@ -16,3 +19,24 @@ h1{
 .half-width img{
     width :100%
 }
+.top-banner
+{background-image: url("images/top-banner.png");
+background-repeat: no-repeat;
+}
+
+section{
+    height:500px;
+}
+.link-button
+ { 
+     text-decoration: none;
+     background-image: linear-gradient(laight salmon,tomato );
+     padding: 10px 20px;
+     border-radius: 5px;
+     color :white;
+     font-weight: 700;
+
+}
+
+
+
